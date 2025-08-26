@@ -12,7 +12,7 @@ The Task Scheduler is a React-based web application designed to help users organ
 
   # 2.State Management
     - Uses React’s useState for task handling.
-    - useEffect ensures persistence with localStorage, so tasks remain available          after page reload.
+    - useEffect ensures persistence with localStorage, so tasks remain available after page reload.
     
   # 3.Priority Handling & Auto-Rescheduling
     High-priority tasks shift all subsequent tasks by 30 minutes.
