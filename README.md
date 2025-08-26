@@ -47,3 +47,7 @@ The Task Scheduler is a React-based web application designed to help users organ
   - Frontend: React (JSX, useState, useEffect, props)
   - Storage: Browser localStorage
   - Styling: Flexbox, CSS (responsive design, hover effects, card layout)
+
+# Note:
+  - If you download this project then you have to remove "node_modules" and you have to run "npm install" in terminal 
+    then you have to run this project using "npm run dev".
